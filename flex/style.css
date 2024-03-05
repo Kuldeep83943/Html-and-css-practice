@@ -1,0 +1,55 @@
+.container{
+    border: 4px solid black;
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* flex-direction: row/column/row-reverse/column-reverse; */
+    
+    /* flex-wrap: wrap/nowrap/wrap-reverse/; */
+
+     /* flex-direction: row;
+
+
+     flex-wrap: wrap; */
+     /* flex-flow:column/row wrap; */
+
+     /* justify-content: flex-start/flex-end/center/space-between/space-around/space-evenly; */
+
+     /* height: 600px;
+     align-items: stretch/flex-start/flex-end/center; */
+}
+
+.flex-item{
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+    text-align: center;
+}
+
+.item-1{
+    background-color: aqua;
+}
+
+.item-2{
+    background-color:blue;
+}
+.item-3{
+    background-color: violet;
+}
+.item-4{
+    background-color: slateblue;
+}
+.item-5{
+    background-color: darkblue;
+}
+.item-6{
+    background-color: lightcoral;
+}
+.item-7{
+    background-color: teal;
+}
+.item-8{
+    background-color: yellow;
+}
+.item-9{
+    background-color: brown;
+}
